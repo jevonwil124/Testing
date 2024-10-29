@@ -1,0 +1,30 @@
+Weapons/Power
+
+Teleportation: can teleport himself , objects, or people instantly from one place to another. 
+
+Seal Creation: The power to create a seal on an object or person and allows the user to restrict a target's power(s). Once in effect,
+a target will not be able to perform one to a few of his/her abilites depending on Kurt's energy and stamina.
+
+
+Strengths: 
+- CQC
+- Teleportation
+- Stealthy
+- Agile
+- Strategic
+- Above average physical strength
+
+Weaknesses: 
+- Needs to know/sense/have been to the area which they are teleporting to do so properly.
+- Needs to know/sense the object/person to which they are creating the seal on to do so properly.
+- Teleporting requires a substantial amount of stamina/energy. He’d need to rest for about 2-3 secs for each use without dying. Consecutive usage of this ability without rest will lead to death.
+- Low Durability 
+- Short to mid range teleportation
+- Seals are ineffective on non-solid objects or entities.
+- Seal's potency/strength will decline as kurt takes more damage. 
+
+
+
+ 
+
+
